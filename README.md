@@ -1,2 +1,3 @@
 # searching-algorithms
-These are some of the most common searching algorithms.
+This repository contains some of the most commong searching algorithms.
+
