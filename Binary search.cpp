@@ -15,7 +15,7 @@ int main()
     while (a <= b) {
         int k = (a+b)/2;
         if (array[k] == x) {
-            cout << "Element gefunden bei " << k;
+            cout << "Found at index: " << k;
         }
         if (array[k] > x) {
             b = k-1;
