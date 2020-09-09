@@ -16,7 +16,7 @@ int main()
             k += b;
         }
         if (array[k] == x) {
-            cout << "Found at Index: " << k;
+            cout << "Found at index: " << k;
         }
     }
 
